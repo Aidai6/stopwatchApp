@@ -8,23 +8,31 @@
 body {
   font-family: "Poppins", sans-serif;
   color: #fff;
-  background-color: #282828;
+  background-color: #15181E;
   width: 800px;
-  margin: 30px auto;
+  margin: 50px auto;
   text-align:center;
 }
 
-h1, h2, h3 {
+h1 {
   font-size: 2.6em;
   text-transform: uppercase;
 }
 
+h2 {
+  font-size: 2.0em;
+  text-transform: uppercase;
+}
+
+
+
 .display {
   font-size: 2em;
+  margin: 20px 0;
 }
 
 button {
-  background: #282828;
+  background: #15181E;
   color:#ffffff;
   border: solid 1px #ffffff;
   text-decoration: none;
