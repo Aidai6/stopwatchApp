@@ -25,7 +25,7 @@ export class AppComponent {
         this.minutes++;
         this.seconds = 0
       }
-    });
+    }, 10);
   }
   onStopTimer() {
     clearInterval(this.timerID);
